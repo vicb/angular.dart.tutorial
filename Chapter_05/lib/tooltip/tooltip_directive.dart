@@ -12,7 +12,6 @@ import 'package:angular/angular.dart';
 )
 class Tooltip {
   dom.Element element;
-  dom.Node node;
   Scope scope;
   TooltipModel displayModel;
 
